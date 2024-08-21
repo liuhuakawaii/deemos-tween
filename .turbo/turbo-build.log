@@ -1,0 +1,13 @@
+
+> react-tweet@3.2.1 build C:\Users\65632\Desktop\react-tweet\packages\react-tweet
+> pnpm build:swc && pnpm types
+
+
+> react-tweet@3.2.1 build:swc C:\Users\65632\Desktop\react-tweet\packages\react-tweet
+> swc src -d dist --copy-files
+
+Successfully compiled: 49 files, copied 20 files with swc (39.28ms)
+
+> react-tweet@3.2.1 types C:\Users\65632\Desktop\react-tweet\packages\react-tweet
+> tsc --emitDeclarationOnly
+
